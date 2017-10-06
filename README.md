@@ -1,2 +1,2 @@
 # Networking
-GBN
+Implementation of Go Back N Protocol
